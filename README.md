@@ -47,8 +47,8 @@
 ![Uploading EMPD 2.png…]()
 
 
-### Name:ARAVIND SAMY.P
-### Register Number: 212222230011
+### Name: SIVA CHANDRAN R
+### Register Number: 212222240099
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
