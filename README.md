@@ -44,7 +44,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-![Uploading EMPD 2.png…]()
+![EMPD 2](https://github.com/SivaChandranR07/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113497395/93c357c9-64fd-479b-8765-b06893864509)
+
 
 
 ### Name: SIVA CHANDRAN R
